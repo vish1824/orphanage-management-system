@@ -1,6 +1,6 @@
 # 🏠 Sunshine Orphanage Management System
 
-> A full-stack web application to manage orphanage operations — built as a Final Year Project
+> A full-stack web application to manage orphanage operations
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/vish1824/orphanage-management-system)
 ![GitHub stars](https://img.shields.io/github/stars/vish1824/orphanage-management-system?style=social)
